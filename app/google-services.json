@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038630924899",
+    "project_id": "blackjack-5446a",
+    "storage_bucket": "blackjack-5446a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038630924899:android:6f7bb8b03d65a2a8393e56",
+        "android_client_info": {
+          "package_name": "com.andrewwilkinson.blackjack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038630924899-mjvnjgf463ml7die74k6jkodl877ogft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEI2Uz1mMO7OvUUKilzxqJTuO_Ii4hV4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038630924899-mjvnjgf463ml7die74k6jkodl877ogft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
